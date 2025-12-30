@@ -3,6 +3,9 @@
 
 # Scala/sbt
 target/
+compile_ascii.txt
+compile_output.txt
+phase7_output.txt
 project/project/
 project/target/
 .cache/
