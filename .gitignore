@@ -1,3 +1,6 @@
+# Git/GitHub
+.github/
+
 # Scala/sbt
 target/
 project/project/
