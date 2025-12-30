@@ -1,0 +1,18 @@
+[info] welcome to sbt 1.10.7 (Oracle Corporation Java 11.0.28)
+[info] loading project definition from C:\Users\kacem\Desktop\Spark\spark-taxi-project\project
+[info] loading settings for project spark-taxi-project from build.sbt...
+[info] set current project to spark-taxi-analysis (in build file:/C:/Users/kacem/Desktop/Spark/spark-taxi-project/)
+[info] Executing in batch mode. For better performance use sbt's shell
+[info] compiling 3 Scala sources to C:\Users\kacem\Desktop\Spark\spark-taxi-project\target\scala-2.12\classes ...
+[error] C:\Users\kacem\Desktop\Spark\spark-taxi-project\src\main\scala\TaxiPhase7_ML.scala:95:75: invalid string interpolation $ , expected: $$, $identifier or ${expression}
+[error]           writer.println(s" - Distance: ${r.get(0)} km | R??el: ${r.get(1)}$ | Pr??dit: ${"%.2f".format(r.getDouble(2))}$")
+[error]                                                                           ^
+[error] C:\Users\kacem\Desktop\Spark\spark-taxi-project\src\main\scala\TaxiPhase7_ML.scala:95:121: unclosed string literal
+[error]           writer.println(s" - Distance: ${r.get(0)} km | R??el: ${r.get(1)}$ | Pr??dit: ${"%.2f".format(r.getDouble(2))}$")
+[error]                                                                                                                         ^
+[error] C:\Users\kacem\Desktop\Spark\spark-taxi-project\src\main\scala\TaxiPhase7_ML.scala:97:7: ';' expected but identifier found.
+[error]     } finally {
+[error]       ^
+[error] three errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 7 s, completed 29 d??c. 2025 ?? 2:35:21 AM

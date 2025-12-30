@@ -1,0 +1,50 @@
+PHASE 2 – NETTOYAGE & TRANSFORMATIONS
+====================================
+
+Nombre de trajets après nettoyage : 3079050
+
+Distribution des distances et durées :
+count | 3079050 | 3079050
+mean | 3.400352277488075 | 15.66108111268117
+stddev | 65.40582765657561 | 13.158621855594223
+min | 0.01 | 0.016666666666666666
+max | 69735.19 | 296.51666666666665
+
+Proportion de trajets courts vs longs :
+ - long_trip : 248042
+ - short_trip : 2831008
+
+Vitesse moyenne par heure :
+ - Heure 0 : 15.13 km/h
+ - Heure 1 : 14.5 km/h
+ - Heure 2 : 14.36 km/h
+ - Heure 3 : 15.34 km/h
+ - Heure 4 : 18.19 km/h
+ - Heure 5 : 19.82 km/h
+ - Heure 6 : 17.15 km/h
+ - Heure 7 : 13.32 km/h
+ - Heure 8 : 14.36 km/h
+ - Heure 9 : 10.74 km/h
+ - Heure 10 : 11.88 km/h
+ - Heure 11 : 10.66 km/h
+ - Heure 12 : 10.03 km/h
+ - Heure 13 : 10.08 km/h
+ - Heure 14 : 10.09 km/h
+ - Heure 15 : 9.88 km/h
+ - Heure 16 : 9.94 km/h
+ - Heure 17 : 10.08 km/h
+ - Heure 18 : 10.51 km/h
+ - Heure 19 : 11.66 km/h
+ - Heure 20 : 12.53 km/h
+ - Heure 21 : 12.73 km/h
+ - Heure 22 : 12.99 km/h
+ - Heure 23 : 14.08 km/h
+
+Vitesse moyenne par jour de la semaine :
+ - Sun : 13.78 km/h
+ - Mon : 12.69 km/h
+ - Thu : 10.57 km/h
+ - Sat : 11.51 km/h
+ - Wed : 10.48 km/h
+ - Fri : 11.5 km/h
+ - Tue : 11.15 km/h

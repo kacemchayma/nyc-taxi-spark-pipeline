@@ -1,0 +1,85 @@
+PHASE 3 – ANALYSE SPATIO-TEMPORELLE (BONUS)
+===============================
+
+Top 10 zones de prise en charge (Pickup) :
+ - Midtown Center (Manhattan) : 182172 trajets
+ - Upper East Side South (Manhattan) : 170961 trajets
+ - JFK Airport (Queens) : 161906 trajets
+ - Upper East Side North (Manhattan) : 153018 trajets
+ - Times Sq/Theatre District (Manhattan) : 136859 trajets
+ - Penn Station/Madison Sq West (Manhattan) : 133177 trajets
+ - Midtown East (Manhattan) : 128909 trajets
+ - Lincoln Square East (Manhattan) : 117443 trajets
+ - Union Sq (Manhattan) : 114308 trajets
+ - Murray Hill (Manhattan) : 110586 trajets
+
+Top 10 zones de depose (Dropoff) :
+ - Upper East Side North (Manhattan) : 162200 trajets
+ - Upper East Side South (Manhattan) : 154776 trajets
+ - Midtown Center (Manhattan) : 144115 trajets
+ - Times Sq/Theatre District (Manhattan) : 126447 trajets
+ - Murray Hill (Manhattan) : 117726 trajets
+ - Midtown East (Manhattan) : 108968 trajets
+ - East Chelsea (Manhattan) : 107337 trajets
+ - Lincoln Square East (Manhattan) : 105692 trajets
+ - Upper West Side South (Manhattan) : 105217 trajets
+ - Lenox Hill West (Manhattan) : 101130 trajets
+
+Nombre de trajets par heure :
+ - Heure 0 : 135515 trajets
+ - Heure 1 : 88650 trajets
+ - Heure 2 : 52513 trajets
+ - Heure 3 : 41536 trajets
+ - Heure 4 : 33269 trajets
+ - Heure 5 : 33341 trajets
+ - Heure 6 : 60675 trajets
+ - Heure 7 : 113353 trajets
+ - Heure 8 : 157781 trajets
+ - Heure 9 : 164331 trajets
+ - Heure 10 : 167749 trajets
+ - Heure 11 : 179708 trajets
+ - Heure 12 : 194983 trajets
+ - Heure 13 : 206425 trajets
+ - Heure 14 : 219792 trajets
+ - Heure 15 : 228177 trajets
+ - Heure 16 : 238082 trajets
+ - Heure 17 : 271883 trajets
+ - Heure 18 : 300877 trajets
+ - Heure 19 : 283090 trajets
+ - Heure 20 : 273182 trajets
+ - Heure 21 : 268913 trajets
+ - Heure 22 : 245287 trajets
+ - Heure 23 : 186145 trajets
+
+Nombre de trajets par jour de la semaine :
+ - Sat : 770033 trajets
+ - Sun : 623025 trajets
+ - Thu : 599367 trajets
+ - Mon : 555258 trajets
+ - Fri : 553912 trajets
+ - Wed : 546800 trajets
+ - Tue : 496862 trajets
+
+Top 10 hotspots spatio-temporels :
+ - Heure 17, Midtown Center (Manhattan) : 16481 trajets
+ - Heure 18, Midtown Center (Manhattan) : 16452 trajets
+ - Heure 19, Midtown Center (Manhattan) : 14567 trajets
+ - Heure 20, Midtown Center (Manhattan) : 14448 trajets
+ - Heure 22, Times Sq/Theatre District (Manhattan) : 14210 trajets
+ - Heure 21, Midtown Center (Manhattan) : 13858 trajets
+ - Heure 18, Upper East Side South (Manhattan) : 13525 trajets
+ - Heure 16, Midtown Center (Manhattan) : 13510 trajets
+ - Heure 21, Times Sq/Theatre District (Manhattan) : 13435 trajets
+ - Heure 17, Upper East Side South (Manhattan) : 13023 trajets
+
+Top 10 flux origine → destination :
+ - Upper East Side South → Upper East Side North : 23653 trajets
+ - Upper East Side North → Upper East Side South : 20392 trajets
+ - Upper East Side South → Upper East Side South : 16443 trajets
+ - Upper East Side North → Upper East Side North : 16342 trajets
+ - Midtown Center → Upper East Side South : 11366 trajets
+ - Upper East Side South → Midtown Center : 10316 trajets
+ - Midtown Center → Upper East Side North : 9899 trajets
+ - Upper West Side South → Upper West Side North : 9256 trajets
+ - Lincoln Square East → Upper West Side South : 9196 trajets
+ - Upper West Side South → Lincoln Square East : 8992 trajets

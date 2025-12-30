@@ -1,0 +1,84 @@
+PHASE 6 – EXTENSION ANALYSE AVANCEE & FEATURE ENGINEERING
+=====================================================
+
+Nombre total de trajets analyses : 3826678
+
+Tendances horaires (nombre de trajets) :
+ - Heure 0 : 125083 trajets
+ - Heure 1 : 81900 trajets
+ - Heure 2 : 48278 trajets
+ - Heure 3 : 38067 trajets
+ - Heure 4 : 30318 trajets
+ - Heure 5 : 30370 trajets
+ - Heure 6 : 56052 trajets
+ - Heure 7 : 105758 trajets
+ - Heure 8 : 147496 trajets
+ - Heure 9 : 154986 trajets
+ - Heure 10 : 159100 trajets
+ - Heure 11 : 170597 trajets
+ - Heure 12 : 184602 trajets
+ - Heure 13 : 195383 trajets
+ - Heure 14 : 208327 trajets
+ - Heure 15 : 215811 trajets
+ - Heure 16 : 217991 trajets
+ - Heure 17 : 244779 trajets
+ - Heure 18 : 264760 trajets
+ - Heure 19 : 248842 trajets
+ - Heure 20 : 252228 trajets
+ - Heure 21 : 248500 trajets
+ - Heure 22 : 226143 trajets
+ - Heure 23 : 171307 trajets
+
+Revenus par heure :
+ - Heure 0 : 3532711.7 dollars
+ - Heure 1 : 2128077.14 dollars
+ - Heure 2 : 1217478.54 dollars
+ - Heure 3 : 992215.96 dollars
+ - Heure 4 : 959518.74 dollars
+ - Heure 5 : 1066801.37 dollars
+ - Heure 6 : 1716952.72 dollars
+ - Heure 7 : 2923702.22 dollars
+ - Heure 8 : 3853569.55 dollars
+ - Heure 9 : 4075282.33 dollars
+ - Heure 10 : 4260778.91 dollars
+ - Heure 11 : 4579726.18 dollars
+ - Heure 12 : 5078549.33 dollars
+ - Heure 13 : 5447303.95 dollars
+ - Heure 14 : 6110533.06 dollars
+ - Heure 15 : 6358876.3 dollars
+ - Heure 16 : 6704240.34 dollars
+ - Heure 17 : 7126287.9 dollars
+ - Heure 18 : 7323585.78 dollars
+ - Heure 19 : 6870571.84 dollars
+ - Heure 20 : 6686067.11 dollars
+ - Heure 21 : 6725724.74 dollars
+ - Heure 22 : 6293504.16 dollars
+ - Heure 23 : 4869154.15 dollars
+
+Detection des anomalies :
+ - Trajets tres courts (<= 0.5 km) : 183977
+ - Trajets tres longs (>= 50 km)   : 523
+ - Vitesses irreelles (> 120 km/h): 849
+ - Durees excessives (> 180 min)  : 149
+
+Top 10 zones par frequence de trajets :
+ - Zone 161 : 171835 trajets
+ - Zone 237 : 162849 trajets
+ - Zone 132 : 148131 trajets
+ - Zone 236 : 144853 trajets
+ - Zone 230 : 127447 trajets
+ - Zone 186 : 126409 trajets
+ - Zone 162 : 122232 trajets
+ - Zone 142 : 110554 trajets
+ - Zone 234 : 106922 trajets
+ - Zone 138 : 104034 trajets
+
+Features creees pour ML :
+ - average_speed
+ - tip_percentage
+ - is_peak_hour
+ - trip_category
+ - zone_trip_frequency
+
+Conclusion :
+Cette extension enrichit les donnees taxis par des analyses avancees, la detection d anomalies et la creation de variables explicatives. Ces transformations permettent de mieux comprendre la dynamique des trajets et preparent efficacement le jeu de donnees a des usages predictifs futurs.

@@ -1,0 +1,18 @@
+PHASE 5 – EXPLORATION DU RIDE-SHARING
+===================================
+
+Nombre total de trajets courts (< 5 km) : 3171273
+Nombre de groupes covoiturables : 214136
+
+Hypotheses de gains appliquees :
+ - Reduction distance : 20 %
+ - Reduction cout     : 15 %
+ - Reduction temps    : 10 %
+
+Gains potentiels estimes :
+ - Distance economisee : 1081941.16 km
+ - Cout economise      : 6119834.47 dollars
+ - Temps economise     : 3648430.07 minutes
+
+Conclusion :
+L analyse montre que de nombreux trajets courts, proches dans le temps et l espace, peuvent etre regroupes pour du covoiturage. Cette approche permettrait de reduire les couts, les distances parcourues et les temps de trajet.

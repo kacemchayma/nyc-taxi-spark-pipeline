@@ -1,0 +1,22 @@
+PHASE 7 – PREDICTION DES TARIFS (MACHINE LEARNING)
+================================================
+
+Modèle utilisé : Random Forest Regressor
+Nombre de trajets pour l'entraînement : 3181119
+Nombre de trajets pour le test : 794306
+
+Evaluation du modèle :
+ - RMSE (Root Mean Squared Error) : 9,10
+ - R2 (Coefficient de détermination) : 0,79
+
+Echantillon de prédictions :
+ - Distance: 0.01 km | Réel: 55.0$ | Prédit: 18,51$
+ - Distance: 0.05 km | Réel: 25.0$ | Prédit: 18,48$
+ - Distance: 4.5 km | Réel: 54.0$ | Prédit: 28,56$
+ - Distance: 21.7 km | Réel: 65.0$ | Prédit: 70,49$
+ - Distance: 7.7 km | Réel: 41.94$ | Prédit: 33,07$
+ - Distance: 8.3 km | Réel: 43.94$ | Prédit: 53,39$
+ - Distance: 2.6 km | Réel: 21.0$ | Prédit: 23,96$
+ - Distance: 2.6 km | Réel: 22.0$ | Prédit: 24,00$
+ - Distance: 15.5 km | Réel: 60.94$ | Prédit: 68,64$
+ - Distance: 17.2 km | Réel: 54.0$ | Prédit: 68,64$

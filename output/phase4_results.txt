@@ -1,0 +1,58 @@
+PHASE 4 – ANALYSE DES PAIEMENTS & POURBOIRES
+===========================================
+
+Distribution des modes de paiement :
+ - payment_type 1 : 2663099 trajets
+ - payment_type 0 : 726220 trajets
+ - payment_type 2 : 377414 trajets
+ - payment_type 4 : 44757 trajets
+ - payment_type 3 : 14289 trajets
+
+Statistiques des pourboires par mode de paiement :
+ - payment_type 1 : pourboire moyen = 4.24, pourcentage moyen = 26.11 %, total pourboires = 1.129933127E7
+ - payment_type 3 : pourboire moyen = 0.0, pourcentage moyen = 0.01 %, total pourboires = 29.27
+ - payment_type 2 : pourboire moyen = 0.0, pourcentage moyen = 0.0 %, total pourboires = 83.16
+ - payment_type 4 : pourboire moyen = 0.01, pourcentage moyen = 0.05 %, total pourboires = 451.07
+ - payment_type 0 : pourboire moyen = 0.43, pourcentage moyen = 1.97 %, total pourboires = 309301.71
+
+Pourboire moyen selon l’heure :
+ - Heure 0 : 2.61
+ - Heure 1 : 2.34
+ - Heure 2 : 2.21
+ - Heure 3 : 2.1
+ - Heure 4 : 2.34
+ - Heure 5 : 2.79
+ - Heure 6 : 2.55
+ - Heure 7 : 2.61
+ - Heure 8 : 2.61
+ - Heure 9 : 2.95
+ - Heure 10 : 3.13
+ - Heure 11 : 3.16
+ - Heure 12 : 3.25
+ - Heure 13 : 3.29
+ - Heure 14 : 3.48
+ - Heure 15 : 3.48
+ - Heure 16 : 3.7
+ - Heure 17 : 3.45
+ - Heure 18 : 3.15
+ - Heure 19 : 2.96
+ - Heure 20 : 2.73
+ - Heure 21 : 2.87
+ - Heure 22 : 2.85
+ - Heure 23 : 2.72
+
+Pourboire moyen selon le jour de la semaine :
+ - Mon : 3.33
+ - Tue : 3.22
+ - Wed : 3.21
+ - Thu : 3.19
+ - Fri : 3.09
+ - Sun : 2.83
+ - Sat : 2.58
+
+Comparaison montants / distances / vitesses par paiement :
+ - payment_type 1 : montant moyen = 29.12, distance moyenne = 3.41, vitesse moyenne = 11.58 km/h
+ - payment_type 3 : montant moyen = 24.16, distance moyenne = 3.02, vitesse moyenne = 24.93 km/h
+ - payment_type 2 : montant moyen = 24.22, distance moyenne = 3.21, vitesse moyenne = 11.59 km/h
+ - payment_type 4 : montant moyen = 28.34, distance moyenne = 3.95, vitesse moyenne = 14.21 km/h
+ - payment_type 0 : montant moyen = 25.59, distance moyenne = 17.64, vitesse moyenne = 68.62 km/h

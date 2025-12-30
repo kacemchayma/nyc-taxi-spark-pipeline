@@ -1,0 +1,33 @@
+# Scala/sbt
+target/
+project/project/
+project/target/
+.cache/
+.history/
+.lib/
+.metals/
+.bloop/
+.bsp/
+.vscode/
+
+# Java/Maven/Hadoop
+*.class
+*.jar
+*.war
+*.ear
+winutils.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Project Specific
+data/
+
+# Windows
+Thumbs.db
+desktop.ini
